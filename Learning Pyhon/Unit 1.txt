@@ -1,1 +1,1 @@
-This unit's exercises are solely for the purpose of learning the basics of Python.
+
