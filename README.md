@@ -1,1 +1,1 @@
-This repository contains Python exercises related to physics and computing.
+This repository contains Python exercises related to physics, math and computing.
